@@ -8,6 +8,6 @@ the wifi jammer tool
 `cd Sharknet`
 `bash install.sh `
 
-#Usage
+# Usage
 
 ` sudo python3 SharkNet  <target mac address>  -i <interface> -v 1 `
