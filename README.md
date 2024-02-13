@@ -1,5 +1,5 @@
 # Sharknet
-<img align="center" src="SharkNet.png" width="200">
+<img align="center" src="Sharknet.png" width="200">
 the wifi jammer tool
 
 
@@ -9,4 +9,5 @@ the wifi jammer tool
 `bash install.sh `
 
 #Usage
+
 ` sudo python3 SharkNet  <target mac address>  -i <interface> -v 1 `
