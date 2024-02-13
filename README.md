@@ -1,5 +1,5 @@
 # Sharknet
-<img align="center" src="Sharknet.png" width="200">
+<img align="center" src="Sharknet.png" width="900">
 the wifi jammer tool
 
 
