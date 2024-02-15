@@ -1,5 +1,5 @@
 # Sharknet
-<img align="center" src="Sharknet.png" width="900">
+<img align="center" src="screen3.png" width="900">
 the wifi jammer tool
 
 
@@ -8,6 +8,12 @@ the wifi jammer tool
 `cd Sharknet`
 `bash install.sh `
 
-# Usage
+# Scanning
+<img align="center" src="screen2.png" width="900">
+` sudo python3 scan.py  -i <interfacemon>  `
 
-` sudo python3 SharkNet  <target mac address>  -i <interface> -v 1 `
+# Attacking
+<img align="center" src="Sharknet.png.png" width="900">
+`  sudo python3 Sharknet.py <target mac adreess> -i <interface> -v 1 -c <count package for attack>  --interval <packet time>`
+
+
