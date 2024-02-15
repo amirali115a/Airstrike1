@@ -10,10 +10,12 @@ the wifi jammer tool
 
 # Scanning
 <img align="center" src="screen2.png" width="900">
+
 `sudo python3 scan.py  -i <interfacemon>  `
 
 # Attacking
 <img align="center" src="Sharknet.png" width="900">
+
 `sudo python3 Sharknet.py <target mac adreess> -i <interface> -v 1 -c <count package for attack>  --interval <packet time>`
 
 
