@@ -16,6 +16,6 @@ the wifi jammer tool
 # Attacking
 <img align="center" src="screen4.png" width="900">
 
-`sudo python3 Sharknet.py <target mac adreess> -i <interface> -v 1 -c <count Packet for attack>  --interval <packet time>`
+`sudo python3 AirDeauth.py -b < target bssid>  -i <interface>  -c <count Packet for attack>  -t <packet time>`
 
 
